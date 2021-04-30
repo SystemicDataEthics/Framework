@@ -5,7 +5,7 @@ version: 0.1
 
 The Systemic Data Ethics Framework defines 12 domains, which when taken together, comprise a stable view of the whole field of data ethics, even as our understanding of what is involved evolves daily. This document outlines some of the systemic process used to create this stability.
 
-![frameowork grid](images/framework1.png)
+![framework grid](images/framework1.png)
 
 ## A framework for collaboration
 
@@ -102,3 +102,8 @@ It is important to mention that the Systemic Data Ethics Framework has been desi
 However, one of the most valuable attributes of this framework is that it will remain consistent, no matter how much the field of data ethics advances. We will need to create new releases to refine names and definitions as our understanding grows, but the underlying structure will remain fixed.
 
 The Systemic Ethics Framework provides a stable foundation in an unknown and unstable environment. It is possible to build long term strategies based on this map, with the confidence that the map is accurate enough.
+
+----
+
+*The Systemic Data Ethics Framework was created by Peter Brownell  with the help of many others. (Peter@systemicDataEthics.org)*
+
